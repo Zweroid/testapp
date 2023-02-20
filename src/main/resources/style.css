@@ -1,0 +1,14 @@
+.generalBackground {
+-fx-background-color: #313335;
+}
+
+.paneLeft {
+-fx-background-color: #3C3F41;
+}
+
+.scrollPane {
+-fx-background-color:#2B2B2B;}
+
+.buttonFile {
+-fx-background-color: orange;
+}
